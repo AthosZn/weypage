@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: oauth-service
+#安全配置
